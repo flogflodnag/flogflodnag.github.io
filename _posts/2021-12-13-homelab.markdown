@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Homelab"
+date:   2021-12-13 12:00:00 -0600
+categories: hobby
+---
+For a year or two, I've used my laptop as a sort of "proto-homelab", hosting a few services for myself. I recently upgraded to a more proper homelab, replacing my laptop with a Lenovo ThinkCentre M715q Tiny. While my laptop was running Ubuntu, I decided I wanted to try out a virtualization-based lab, so my tiny pc is running Proxmox Virtual Environment.
+
+Currently I am running a Nitter and Bibliogram instance, Jellyfin, IPFS, an Apache webserver, and a modded Minecraft server. I plan on adding OPNSense and maybe Security Onion within a couple weeks.
+
+I should also mention that Linux has been my main operating system for the past 5 or so years. Started experimenting with Ubuntu sometime in 2012-2014, eventually installed Linux Mint Cinnamon Edition as my main OS in 2015. In 2017, I replaced Mint with Manjaro KDE Plasma, which continues to be my main OS to this day.

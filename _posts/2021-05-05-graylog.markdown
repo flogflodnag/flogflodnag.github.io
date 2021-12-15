@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "SIEM Product Analysis - Security Monitoring & Operations (FVTC)"
+date:   2021-05-05 12:00:00 -0600
+categories: security-monitoring-and-operations fvtc
+---
+The final project for Security Monitoring & Operations at Fox Valley Technical College. A group project comparing three different security information and event management (SIEM) solutions for a fictional organization, plus documentation covering the installation, configuration, and management of one of the solutions, which I handled.
+
+The three SIEM solutions we investigated were Splunk, SolarWinds Security Event Manager, and Graylog. Taking in consideration the wants and needs of the organization, we decided to recommend Graylog. I then used a network of virtual machines to simulate the organization's environment and documented the installation and configuration procedure as [a seperate report](/assets/graylog/installation-and-configuration-procedure.pdf).
+
+<!-- <embed src="/assets/graylog/installation-and-configuration-procedure.pdf" type="application/pdf" width="100%" height="1000px"/> -->

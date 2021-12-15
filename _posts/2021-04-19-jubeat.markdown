@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "jubeat-launchpad"
+date:   2021-04-19 12:45:09 -0600
+categories: hobby
+---
+A personal project where I create a clone of the rhythm game _jubeat_ by Japanese game studio _Bemani_. While _jubeat_ is typically played in an arcade on a panel with a 4x4 grid of buttons, the goal of this project is to play with a Novation Launchpad, a MIDI controller with an 8x8 grid of buttons.
+
+<center><embed src="/assets/jubeat/demo.mp4" type="video/mp4" style="width: 640px; max-width: 100%; aspect-ratio:4/3;"></center>
+
+[A video of the same level being played on an arcade machine.](https://youtu.be/dwh_W66yGnA)
+
+The program reads a file that contains a "map" of when and where to activate the buttons, in time with a specific song.
