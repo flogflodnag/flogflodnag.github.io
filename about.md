@@ -3,16 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
+A creative and concept-driven problem solver, with a passion for managing complex systems. Currently enrolled in the Information Systems Security Specialist program at Fox Valley Technical College. Strong grasp of fundamental concepts that allow quick familiarization with new environments and fast learning.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+My resume can be seen rendered [here][resume] or as a PDF [here][resume-pdf].
 
 
-[jekyll-organization]: https://github.com/jekyll
+[resume]: /resume.md
+[resume-pdf]: /assets/resume/resume.pdf
