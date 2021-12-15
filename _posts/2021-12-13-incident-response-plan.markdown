@@ -4,7 +4,7 @@ title:  "Incident Response Plan - Incident Response (FVTC)"
 date:   2021-12-13 11:49:44 -0600
 categories: incident-response fvtc
 ---
-The capstone project of the Information Systems Security Specailist program and degree at Fox Valley Technical College. Tasked with building an incident response plan for _FOXES Enterprise LLC_, a made up organization, throughout the semester, following the National Institute of Standards and Technology (NIST) Security Incident Handling Guide. Specifically, I followed the Incident Response Life Cycle: Preparation; Detection & Analysis; Containment, Eradication, & Recovery; and Post-Incident Activity. [Link to my Incident Response Plan](/assets/incident-resonse-plan/irp.pdf).
+The capstone project of the Information Systems Security Specialist program and degree at Fox Valley Technical College. Tasked with building an incident response plan for _FOXES Enterprise LLC_, a made up organization, throughout the semester, following the National Institute of Standards and Technology (NIST) Security Incident Handling Guide. Specifically, I followed the Incident Response Life Cycle: Preparation; Detection & Analysis; Containment, Eradication, & Recovery; and Post-Incident Activity. [Link to my Incident Response Plan](/assets/incident-resonse-plan/irp.pdf).
 
 # Assignment Prompt
 

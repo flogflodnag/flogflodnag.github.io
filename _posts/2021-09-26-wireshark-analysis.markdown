@@ -6,7 +6,7 @@ categories: incident-response fvtc
 ---
 Assigned for my Incident Response course at Fox Valley Technical College, this project had me analyze a network capture PCAP file and produce an incident report. The PCAP file had about 4000 packets of traffic from a fictional organization that had been infected by a spyware Trojan called "*Agent Tesla*".
 
-The deliverable for this project was an [incident report](/assets/wireshark-analysis/report.pdf) giving a summary of what happened. While perfoming my analysis, I had recorded my steps, notes, and thought process chronologically in another document, [my notes document](/assets/wireshark-analysis/notes.pdf), which was submitted alongside the incident report.
+The deliverable for this project was an [incident report](/assets/wireshark-analysis/report.pdf) giving a summary of what happened. While performing my analysis, I had recorded my steps, notes, and thought process chronologically in another document, [my notes document](/assets/wireshark-analysis/notes.pdf), which was submitted alongside the incident report.
 
 # Assignment Prompt
 
